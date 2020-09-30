@@ -1,2 +1,5 @@
-# node_passport_login-master
+# node_passport_login
+
+npm i 
+then npm start
  
